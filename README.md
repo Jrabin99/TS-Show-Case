@@ -1,4 +1,4 @@
-# In-Class Assignments - Excel Projects
+# Assignments - Excel Projects
 
 This repository contains a collection of Excel files that were completed as part of in-class assignments. These files showcase my skills in various data management tasks, including:
 
