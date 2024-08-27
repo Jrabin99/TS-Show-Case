@@ -1,6 +1,6 @@
 # Assignments - Excel Projects
 
-This repository contains a collection of Excel files that were completed as part of in-class assignments. These files showcase my skills in various data management tasks, including:
+This repository contains a collection of Excel files. These files showcase my skills in various data management tasks, including:
 
 - **Displaying Data**: Organizing and presenting data clearly in tables and charts.
 - **Sorting Data**: Sorting data in ascending or descending order based on different criteria.
